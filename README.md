@@ -1,6 +1,6 @@
-# [ Project Title ]
+# Cacti Preservation
 
-[ Do you have a [project vision or mission statement](https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)? Add it here! Otherwise, add a short descirption of your project.]
+Our mission is to protect all the cacti in the world.
 
 [ If you have one, add your logo or an image here ]
 
